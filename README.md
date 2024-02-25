@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumparthypavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="gumparthypavankumar" /> </p>
 
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gumparthypavankumar" alt="gumparthypavankumar" /></a> </p>
-
+-->
 - 🔭 I’m currently working on **SuperApp**
 
 - 🌱 I’m currently learning **Kafka, Microservices, Content Streaming**
