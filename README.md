@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gumparthy Pavan Kumar</h1>
 </br>
-<h3 align="center">Hello, this is pavan a technology agnostic, software engineer with over 4+ years of experience in fintech space. I develop, build and scale softwares in web, mobile world. I believe in continous learning.</h3>
+<h3>Hello, this is pavan a technology agnostic, software engineer with over 4+ years of experience in fintech space. I develop, build and scale softwares in web, mobile world. I believe in continous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumparthypavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="gumparthypavankumar" /> </p>
 
@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/pavan-kumar-gumparthy-a581051b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-kumar-gumparthy-a581051b4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gumparthypk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gumparthypk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gumparthypavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gumparthypavan" height="30" width="40" /></a>
+<a href="https://medium.com/@gumparthypk"><img src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" alt="medium-blog" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
