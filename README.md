@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gumparthy Pavan Kumar</h1>
 </br>
-<h3>Hello, this is pavan a technology agnostic, software engineer with over 4+ years of experience in fintech space. I develop, build and scale softwares in web, mobile world. I believe in continous learning.</h3>
+<h3>A software engineer with over 3+ years of experience building world class products. I design, architect and build scalable, extensible softwares for platforms including web and mobile. I believe in continous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumparthypavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="gumparthypavankumar" /> </p>
 
