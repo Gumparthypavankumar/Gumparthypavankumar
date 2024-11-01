@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gumparthy Pavan Kumar</h1>
 </br>
-<h3>A software engineer with over 3+ years of experience building world class products. I design, architect and build scalable, extensible softwares for platforms including web and mobile. I believe in continous learning.</h3>
+<h3>A Platform engineer with over 4+ years of industry experience building world-class products. I architect and build scalable, extensible software in web and mobile. I believe in continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumparthypavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="gumparthypavankumar" /> </p>
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gumparthypavankumar" alt="gumparthypavankumar" /></a> </p>
 -->
-- 🔭 I’m currently working on **SuperApp**
+- 🔭 I’m currently working on **Knowledge Sharing**
 
 - 🌱 I’m currently learning **Kafka, Microservices, Content Streaming**
 
